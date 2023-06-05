@@ -1,0 +1,22 @@
+.navigation {
+    border: 1px solid #ccc;
+    background-color: #ebebeb;
+    width: 600px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.navigation__link {
+    padding: 20px;
+    color: teal;
+}
+
+.navigation__link:hover {
+    color: rgb(0, 172, 172);
+}
+
+.navigation__link:active  {
+    color: rgb(6, 83, 83);
+}

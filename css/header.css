@@ -1,0 +1,14 @@
+.header {
+    text-align: center;
+}
+
+.header__image {
+    border-radius: 80px;
+    margin: 20px;
+    box-shadow: 3px 3px 5px #aaa;
+}
+
+.header__name {
+    margin-top: 0;
+    color: teal;
+}

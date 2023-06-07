@@ -1,9 +1,9 @@
-# Maciej Cepielik - moja strona
+# Maciej Cepielik - about me
 
 ![Maciej Cepielik](images/me.jpg)
 
-## Opis
-Zapraszam do obejrzenia mojej strony, dzięki której poznasz kilka podstawowych informacji na mój temat :)
+## Description
+I invite You to read some basic information about me :)
 
 ## Demo
 https://maciejcepielik.github.io/homepage/

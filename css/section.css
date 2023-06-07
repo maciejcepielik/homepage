@@ -1,12 +1,10 @@
 .section {
     border: 1px solid #ccc;
     background-color: #ebebeb;
-    width: 600px;
+    max-width: 600px;
     border-radius: 10px;
-    /* display: flex; */
     margin: 10px auto;
     padding: 10px;
-    /* text-align: center; */
 }
 
 .section__subHeader {

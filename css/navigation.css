@@ -1,7 +1,7 @@
 .navigation {
     border: 1px solid #ccc;
     background-color: #ebebeb;
-    width: 600px;
+    max-width: 600px;
     border-radius: 10px;
     display: flex;
     justify-content: center;

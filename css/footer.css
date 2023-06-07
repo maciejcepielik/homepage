@@ -2,7 +2,7 @@
 .footer {
     border: 1px solid #ccc;
     background-color: #ebebeb;
-    width: 600px;
+    max-width: 600px;
     border-radius: 10px;
     margin: 10px auto;
     padding: 10px;
